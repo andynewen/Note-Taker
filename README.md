@@ -38,6 +38,8 @@
 
 ## Usage :
 
+* Heroku Deployment - https://notetaker-andynewen.herokuapp.com/
+
 * Clone this repository to use this application on local machine.
 
 * To install necessary dependencies, run the following command :
